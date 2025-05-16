@@ -1,9 +1,16 @@
 # AANotifier
 
 Android Auto未対応のアプリの通知をAndroid Autoヘッドユニットに表示します。
+AANotifierをAndroid14に対応させAPIレベルを34に対応させました。
+ワイドタイプのナビ画面に表示した場合、通知が画面左上に留まるようにカスタムしてあります。
+
+Android14で運転中は通知音が強制削除されるアップデートがありましたがメディアプレイヤーで流すことで聞こえるようにしております。
+
+道交法を守ってご利用ください。
+このアプリを起因とする事件事故等には一切責任を負いません。
 
 ## 必要アプリ・機器
-- Android 8.0以上の端末
+- Android 14.0以上の端末
 - [Android Autoアプリ](https://play.google.com/store/apps/details?id=com.google.android.projection.gearhead)
 - Android Autoヘッドユニット (Android Auto対応ナビなど)
 
